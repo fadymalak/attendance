@@ -1,0 +1,20 @@
+//  create user  /register/
+{
+
+    "username":"fady",
+    "email":"fady.malak.awad@gmail.com",
+    "password":"123456789",
+    "first_name":"fady",
+    "last_name":"malak"
+}
+
+// check-in  data   /attend/
+{
+    "type":"CHECK-IN"
+}
+
+
+// check-in  data   /attend/
+{
+    "type":"CHECK-OUT"
+}
